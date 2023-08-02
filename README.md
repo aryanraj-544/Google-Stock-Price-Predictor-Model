@@ -1,4 +1,4 @@
-# Google-Stock-Price-Predictor-Model
+# 🔗 Google-Stock-Price-Predictor-Model
 This project is build as a predictor model using LSTM methods, Google Stock Price Predictor.
 
 It takes training data set as a *.csv* file named as Google_Stock_Price_Train.csv which contains the DataSet of Stock Prices of Google from March,2012 to December,2016.
@@ -7,7 +7,7 @@ The test dataset used contains the data of Stock Prices of Google for January,20
 
 The code is available in the file Google Stock Price Predictor.ipynb
 
-# Modules/Libraries Used:
+# 🔗 Modules/Libraries Used:
 
   1. Tensorflow
   2. pandas
@@ -16,7 +16,7 @@ The code is available in the file Google Stock Price Predictor.ipynb
   5. matplotlib
   6. sklearn
 
-# Working with the model
+# 🔗 Working with the model
 Before working with the model ensure the modules in requirement.txt are pre installed.
 If it isn't, for installing follow the command:
  
